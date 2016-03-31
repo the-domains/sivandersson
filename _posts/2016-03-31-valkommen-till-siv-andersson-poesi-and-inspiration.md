@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-31T14:47:17.543Z'
-dateModified: '2016-03-31T14:47:10.476Z'
+datePublished: '2016-03-31T14:53:03.370Z'
+dateModified: '2016-03-31T14:50:15.022Z'
 title: 'Välkommen till Siv Andersson – Poesi & Inspiration'
 author: []
 sourcePath: _posts/2016-03-31-valkommen-till-siv-andersson-poesi-and-inspiration.md
@@ -41,7 +41,7 @@ Mina dikter får gärna citeras fritt i privata sammanhang, med mitt namn angive
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dccb50c-4233-4934-b439-22f4211b5a60.jpg)
 
 ## Om mig...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127d2481-072a-475e-a2da-313f3dad4580.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0d13abee847f26f3412d55fe4c8c90c1ea6d933.jpg)
 
 Jag är textförfattare och poet. Det många inte vet om mig är att jag skrivit en hel del scentexter, som till exempel stand up till Ulla Skoog och sångtexter till bland andra Meta Roos och den tecknade filmen _Care Bears i Underlandet_.
 
