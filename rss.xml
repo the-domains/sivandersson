@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SivAndersson]]></title>
-        <description><![CDATA[SivAndersson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Siv Andersson – Poesi & Inspiration]]></title>
+        <description><![CDATA[Siv Andersson – Poesi & Inspiration]]></description>
+        <link>https://thegrid.ai/sivandersson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 14:42:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 14:47:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sivandersson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Välkommen till Siv Andersson – Poesi & Inspiration]]></title>
             <description><![CDATA[<article><h1>Välkommen till Siv Andersson – Poesi & Inspiration</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0399b52f-f559-4681-98f7-53f0efbd514b.jpg"></article>]]></description>
-            <link>undefinedvalkommen-till-siv-andersson-poesi-and-inspiration/index.html</link>
+            <link>https://thegrid.ai/sivandersson/valkommen-till-siv-andersson-poesi-and-inspiration/index.html</link>
             <guid isPermaLink="false">695d75a9-9418-4c58-945d-070d25bf6b8d</guid>
-            <pubDate>Thu, 31 Mar 2016 14:42:17 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 14:47:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
