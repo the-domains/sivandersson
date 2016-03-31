@@ -1,0 +1,28 @@
+name: SivAndersson
+favicon: null
+layout_spectrum: 0.1860040845349431
+typography_spectrum: 0.46792215667665005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.48229098366573453
+  lightness: 0.7190986047498882
+  saturation: 0.24774108710698783
+  rhythmicContrast: 0.7055580550804734
+purpose: []
